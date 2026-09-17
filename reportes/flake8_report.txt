@@ -1,0 +1,140 @@
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:4:1: F401 'os' imported but unused
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:11:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:16:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:19:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:28:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:44:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:48:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:51:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:60:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:72:5: E722 do not use bare 'except'
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:75:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:81:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:86:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:96:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:99:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:105:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:109:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:115:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:118:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:124:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:128:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:134:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:137:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:141:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:151:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:154:9: E722 do not use bare 'except'
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:156:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:160:37: W291 trailing whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:161:105: W291 trailing whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:167:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:170:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:173:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:177:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:180:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:190:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:193:9: E722 do not use bare 'except'
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:195:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:197:32: W291 trailing whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:198:74: W291 trailing whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:201:67: W291 trailing whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:206:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:209:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:213:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:217:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:220:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:224:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:230:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:234:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:238:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:242:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:246:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:250:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:253:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:257:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:263:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:266:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:270:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:273:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:276:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:279:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:282:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:285:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:287:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:288:48: W291 trailing whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:289:26: E128 continuation line under-indented for visual indent
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:289:38: W291 trailing whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:290:26: E128 continuation line under-indented for visual indent
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:291:26: E128 continuation line under-indented for visual indent
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:292:26: E128 continuation line under-indented for visual indent
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:294:1: E305 expected 2 blank lines after class or function definition, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:4:1: F401 'os' imported but unused
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:11:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:16:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:19:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:28:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:44:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:48:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:51:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:60:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:72:5: E722 do not use bare 'except'
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:75:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:81:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:86:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:96:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:99:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:105:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:109:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:115:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:118:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:124:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:128:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:134:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:137:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:141:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:151:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:154:9: E722 do not use bare 'except'
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:156:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:160:37: W291 trailing whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:161:105: W291 trailing whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:167:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:170:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:173:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:177:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:180:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:190:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:193:9: E722 do not use bare 'except'
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:195:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:197:32: W291 trailing whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:198:74: W291 trailing whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:201:67: W291 trailing whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:206:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:209:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:213:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:217:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:220:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:224:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:230:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:234:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:238:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:242:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:246:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:250:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:253:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:257:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:263:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:266:1: E302 expected 2 blank lines, found 1
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:270:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:273:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:276:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:279:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:282:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:285:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:287:1: W293 blank line contains whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:288:48: W291 trailing whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:289:26: E128 continuation line under-indented for visual indent
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:289:38: W291 trailing whitespace
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:290:26: E128 continuation line under-indented for visual indent
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:291:26: E128 continuation line under-indented for visual indent
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:292:26: E128 continuation line under-indented for visual indent
+C:\Users\Paloma\Documents\Default Project\gestion_empleados\app.py:294:1: E305 expected 2 blank lines after class or function definition, found 1

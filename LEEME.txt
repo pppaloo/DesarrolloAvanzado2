@@ -1,0 +1,64 @@
+========================================================================
+ GESTION DE EMPLEADOS - Guia rapida de revision
+ Trabajo Individual: Herramientas de analisis de codigo
+ Paloma Chavez - Desarrollo Avanzado
+========================================================================
+
+QUE ES ESTO
+------------------------------------------------------------------------
+Aplicacion web (Flask + SQLite) de gestion de empleados con:
+  - Login y registro de usuarios
+  - CRUD completo (crear, listar, editar, eliminar)
+  - Busqueda y estadisticas
+Incluye vulnerabilidades y malas practicas DE FORMA INTENCIONAL para
+que las herramientas de analisis (Bandit, Flake8, PyLint) las detecten.
+
+COMO EJECUTAR EL PROGRAMA
+------------------------------------------------------------------------
+1. Abrir una terminal (cmd o PowerShell) en esta carpeta
+2. Instalar dependencias (solo la primera vez):
+      pip install flask
+   o bien:
+      pip install -r requirements.txt
+3. Ejecutar:
+      python app.py
+4. Abrir en el navegador:  http://127.0.0.1:5000/login
+
+USUARIO DE PRUEBA (ya creado con 10 empleados de ejemplo)
+------------------------------------------------------------------------
+   Usuario:  paloma
+   Contrasena: 1234
+
+(NOTA: las contrasenas se guardan con MD5 de forma intencional, para
+que Bandit detecte la vulnerabilidad y se pueda explicar en clase.)
+
+COMO REVISAR LA BASE DE DATOS (empleados.db)
+------------------------------------------------------------------------
+Opcion A - DB Browser for SQLite (gratis):
+   1. Descargar en:  https://sqlitebrowser.org
+   2. Clic en "Open Database" y seleccionar el archivo empleados.db
+   3. Ver las tablas "usuarios" y "empleados" en la pestana
+      "Browse Data"
+
+Opcion B - Sin instalar nada (Python tiene sqlite3):
+   Desde esta carpeta ejecutar:
+      python -c "import sqlite3; \
+c=sqlite3.connect('empleados.db'); \
+print(c.execute('SELECT * FROM empleados').fetchall())"
+
+Opcion C - Desde la propia interfaz web:
+   Entrar al login y navegar por los empleados y estadisticas.
+
+CARPETA reportes/
+------------------------------------------------------------------------
+Contiene la evidencia del analisis y las capturas de pantalla:
+  - bandit_report.{html,json,txt}   -> seguridad (Bandit)
+  - flake8_report.txt               -> estilo (Flake8)
+  - pylint_report.txt               -> calidad (PyLint) 6.29/10
+  - *.png                           -> capturas de la app y reportes
+
+INFORME
+------------------------------------------------------------------------
+  Informe_Trabajo_Paloma_Chavez.docx  -> informe completo, se abre
+  directamente en Google Docs (Docs > Importar) o con Word/LibreOffice.
+========================================================================

@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% block title %}Lista de Empleados{% endblock %}
+
+{% block content %}
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h2>Empleados</h2>
+    <a href="{{ url_for('nuevo_empleado') }}" class="btn btn-success">+ Nuevo Empleado</a>
+</div>
+
+{% if empleados %}
+<div class="table-responsive">
+    <table class="table table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>ID</th>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Cargo</th>
+                <th>Salario</th>
+                <th>Departamento</th>
+                <th>Fecha Ingreso</th>
+                <th>Teléfono</th>
+                <th>Email</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for emp in empleados %}
+            <tr>
+                <td>{{ emp['id'] }}</td>
+                <td>{{ emp['nombre'] }}</td>
+                <td>{{ emp['apellido'] }}</td>
+                <td>{{ emp['cargo'] }}</td>
+                <td>${{ "%.2f"|format(emp['salario']) }}</td>
+                <td>{{ emp['departamento'] }}</td>
+                <td>{{ emp['fecha_ingreso'] }}</td>
+                <td>{{ emp['telefono'] }}</td>
+                <td>{{ emp['email'] }}</td>
+                <td>
+                    <a href="{{ url_for('editar_empleado', id=emp['id']) }}" class="btn btn-sm btn-warning">Editar</a>
+                    <a href="{{ url_for('eliminar_empleado', id=emp['id']) }}" class="btn btn-sm btn-danger" 
+                       onclick="return confirm('¿Está seguro de eliminar este empleado?')">Eliminar</a>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% else %}
+<div class="alert alert-info">
+    No hay empleados registrados. ¡Agregue uno nuevo!
+</div>
+{% endif %}
+{% endblock %}
